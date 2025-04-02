@@ -118,7 +118,7 @@ section {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    padding-top: 80px; /* To account for fixed nav */
+    padding-top: 130px; /* To account for fixed nav */
 }
 
 h2 {
@@ -269,7 +269,7 @@ footer a:hover {
         overflow: visible;
     }
     .container {
-        margin-top: 100px;
+        margin-top: 130px;
     }
 
     .logo {
