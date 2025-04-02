@@ -118,7 +118,7 @@ section {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    padding-top: 130px; /* To account for fixed nav */
+    padding-top: 100px; /* To account for fixed nav */
 }
 
 h2 {
