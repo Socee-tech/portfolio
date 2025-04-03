@@ -12,6 +12,10 @@ body {
     line-height: 1.6;
 }
 
+.align {
+    text-align: justify;
+}
+
 /* Main Container */
 .container {
     background: #fff;
