@@ -118,11 +118,6 @@
     font-size: 1.5rem;
     cursor: pointer;
   }
-
-  /*Hide the check box*/
-  #menu-toggle {
-    display: none;
-  }
   
   /* Hero Section */
   .hero {
@@ -355,11 +350,6 @@
   @media (max-width: 768px) {
     .nav-links {
       display: none;
-    }
-
-    /*to show navigation links when the checkbox is checked*/
-    #menu-toggle:checked + .hamburger + .nav-links {
-      display: flex;
     }
     
     .hamburger {
