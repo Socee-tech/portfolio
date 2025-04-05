@@ -112,13 +112,7 @@
     display: none;
   }
   
-  .hamburger {
-    display: none;
-    color: white;
-    font-size: 1.5rem;
-    cursor: pointer;
-  }
-  
+   
   /* Hero Section */
   .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/hero-bg.jpg') center/cover no-repeat;
@@ -352,9 +346,6 @@
       display: none;
     }
     
-    .hamburger {
-      display: block;
-    }
     
     .hero h1 {
       font-size: 2.5rem;
